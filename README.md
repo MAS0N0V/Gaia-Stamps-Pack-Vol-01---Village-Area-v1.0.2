@@ -2,7 +2,7 @@
 
 <img src="https://github.com/MAS0N0V/Gaia-Stamps-Pack-Vol-01---Village-Area-v1.0.2/blob/main/1542027397_gaia-stamps-pack-vol-01-village-area.jpg?raw=true"/>
 
-<iframe width="814" height="458" src="https://www.youtube.com/embed/zJPuSdVE_f8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The Village Areas Stamps Pack contains terrain stamps used by the Gaia stamping system to stamp features to your Unity terrains. 
 Village Areas is a collection of 10 stamps of areas containing a mostly flat area in the center of the stamp which is ideal for 
