@@ -17,3 +17,6 @@ Gaia to be installed. You can also load the session files into an existing Gaia 
 run certain parts of the session, for example if you only wanted to stamp the session and then go use your own spawners. 
 
 Asset version: 1.0.2
+
+
+<a href="https://hotharbor.ru/?ref#ghbres"> <strong>HotHarbor.ru LuxShop | Интернет Магазин </strong></a> 
